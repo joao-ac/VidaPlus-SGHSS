@@ -111,7 +111,6 @@ classDiagram
         +String videochamada
         +List<Prescricao> prescricaoOnline
     }
-    Teleconsulta --|> Consulta : especialização
 
     %% Notificacao explícita
     class Notificacao {
