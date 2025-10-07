@@ -20,7 +20,7 @@ O SGHSS é uma aplicação desenvolvida em Java com Spring Boot para gerenciar d
 - `src/main/resources` - Configurações e templates
 - `src/test` - Testes automatizados
 
-## Próximas etapas sugeridas
+## Próximas etapas
 1. **Implementar autenticação e autorização** (Spring Security)
 2. **Criar testes automatizados para os serviços e controllers**
 3. **Documentar as APIs REST (Swagger/OpenAPI)**
